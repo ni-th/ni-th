@@ -6,9 +6,7 @@
 
 ###
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye+Marrow&size=35&pause=1000&color=FFFFFF&center=true&multiline=true&width=950&height=135&lines=%F0%9F%91%8B+Hello%2C+;I'm+Nimantha+Thennakoon++;A+passionate+full+stack+developer+from+Sri+Lanka" alt="Typing SVG" /></a>
-###
-<h2>🐍 My Contributions as a Snake Game</h2>
-<img src="https://raw.githubusercontent.com/ni-th/ni-th/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
@@ -111,12 +109,17 @@
   </a>
 </div>
 
+###
+<h2>🐍 My Contributions as a Snake Game</h2>
+<img src="https://raw.githubusercontent.com/ni-th/ni-th/output/snake.svg" alt="Snake animation" />
+
 
 ###
-
+<!--
 <h2>👾 My Contributions as a Pac-Man Game</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ni-th/ni-th/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ni-th/ni-th/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ni-th/ni-th/output/pacman-contribution-graph.svg">
 </picture>
+-->
