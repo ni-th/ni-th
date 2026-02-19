@@ -20,9 +20,11 @@
 <p align="left">
 ✨ Creating bugs since 2015<br>
 🎓 Education: Science student at the University of Colombo<br>
-📚 Currently learning: React • Angular • Spring Boot<br>
-🎯 Goal: Become a skilled full-stack developer<br>
+💻 Currently working with: <strong>Spring Boot</strong>, <strong>React (TypeScript)</strong>, <strong>MySQL</strong>, <strong>WebSocket</strong>, <strong>Tailwind CSS</strong><br>
+📖 Currently studying: <strong>Next.js</strong>, <strong>Nest.js</strong>, <strong>PostgreSQL</strong>, <strong>GSAP</strong>, and other modern web technologies<br>
+🎯 Goal: Become a skilled full-stack developer and build impactful software solutions
 </p>
+
 
 ###
 
